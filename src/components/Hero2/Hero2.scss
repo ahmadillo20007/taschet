@@ -1,0 +1,29 @@
+.hero2{
+    background-image: url('../../img/img3.png');
+    background-repeat: no-repeat;
+    background-size: cover  ;
+    .hero2__list{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        
+        .hero2__list__item:nth-child(1){
+            background-image: url('../../img//Rectangle\ 19.png');
+            width: 393px;
+            height: 611.36px;
+            border: 1px solid #000;
+        }
+        .hero2__list__item:nth-child(2){
+            background-image: url('../../img/Rectangle\ 20.png');
+            width: 393px;
+            height: 611.36px;
+            border: 1px solid #000;
+        }
+        .hero2__list__item:nth-child(3){
+      background-image: url('../../img/Rectangle\ 21\ \(1\).png');
+            width: 393px;
+            height: 611.36px;
+            border: 1px solid #000;
+        }
+    }
+}
