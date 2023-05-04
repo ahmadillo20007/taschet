@@ -3,7 +3,8 @@ import './Hero2.scss'
 function Hero2() {
   return (
   
-    <div className="hero2">
+<>
+<div className="hero2">
         <div className="container">
             <div className="hero2__inner">
                 <ul className='hero2__list'>
@@ -14,6 +15,9 @@ function Hero2() {
             </div>
         </div>
     </div>
+        <div className="back-img">
+          
+        </div>  </>
   )
 }
 
