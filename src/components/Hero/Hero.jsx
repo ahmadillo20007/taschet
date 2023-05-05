@@ -11,13 +11,13 @@ function Hero() {
           Ihre Autowerkstatt in Gelsenkirchen
           </h1>
           <ul className='hero__list'>
-            <li className='hero__list__item'> <i class="bi bi-gear redd"></i>   Erfahrene Mechaniker und Meister</li>
-            <li className='hero__list__item'> <i class="bi bi-gear redd"></i>   Moderne Werkstattausrüstung</li>
-            <li className='hero__list__item'> <i class="bi bi-gear redd"></i>   Breites Spektrum an Dienstleistungen (von A wie ABS bis Z wie Zylinderkopfdichtung, wir sind für Sie da!)</li>
-            <li className='hero__list__item'> <i class="bi bi-gear redd"></i>  Erfahrene Mechaniker und Meister mit jahrzehntelange Erfahrung im KFZ Gewerbe</li>
-            <li className='hero__list__item'> <i class="bi bi-gear redd"></i>  Zuverlässiger und qualitativ hochwertiger Service, der dazu beiträgt, die Lebensdauer Ihres Autos zu verlängern</li>
+            <li className='hero__list__item'> <i class="bi bi-gear redd"></i>   <p className='header___item'>Erfahrene Mechaniker und Meister</p></li>
+            <li className='hero__list__item'> <i class="bi bi-gear redd"></i>   <p className='header___item'>Moderne Werkstattausrüstung</p></li>
+            <li className='hero__list__item'> <i class="bi bi-gear redd"></i>   <p className='header___item'>Breites Spektrum an Dienstleistungen (von A wie ABS bis Z wie Zylinderkopfdichtung, wir sind für Sie da!)</p></li>
+            <li className='hero__list__item'> <i class="bi bi-gear redd"></i> <p className='header___item'> Erfahrene Mechaniker und Meister mit jahrzehntelange Erfahrung im KFZ Gewerbe</p></li>
+            <li className='hero__list__item'> <i class="bi bi-gear redd"></i>  <p className='header___item'>Zuverlässiger und qualitativ hochwertiger Service, der dazu beiträgt, die Lebensdauer Ihres Autos zu verlängern</p></li>
           </ul>
-          <button className='hero__btn'><i className='btn__item'> <p className='item__text'>Kontaktformular</p><i class="bi bi-envelope  icon"></i></i></button>
+          <button className='hero__btn'> <p className='item__text'>Kontaktformular</p><i class="bi bi-envelope icom"></i></button>
         </div>
       </div>
     </div>

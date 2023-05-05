@@ -1,0 +1,38 @@
+.location{
+margin-top: 30px;
+
+    display: flex;
+    width: 700px;
+    height: 320px;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+   
+    h1{
+        color: red;
+     
+    }
+    .tel{
+        margin-right: 75px;
+    }
+}
+.kontakt__text{
+width: 153px;
+height: 48px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 48px;
+color: #000000;
+}
+.kontakt__text__item{
+    width: 586px;
+height: 72px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+color: #464646;
+}

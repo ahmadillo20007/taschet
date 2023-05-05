@@ -1,7 +1,9 @@
 .header__inner{
+    margin-top: -130px;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    height: 240px;
     .header__list{
 list-style-type: none;
 display: flex;  
@@ -48,4 +50,10 @@ flex-grow: 0;
     height: 10px;
     background-color: #E4183B;
     margin-top: 3px;    
+}
+.top{
+
+
+height: 20px;
+background: #000000;
 }
