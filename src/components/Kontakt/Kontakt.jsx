@@ -57,7 +57,7 @@ function Kontakt() {
             </div>
           </div>
           <div className="right">
-
+  
           </div>
         </div>
       </div>
